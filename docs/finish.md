@@ -181,6 +181,7 @@ sawyerbattyROOG.esp
 TTW-ROOG-RTC-Patch.esp
 RRTV_TTW_ScavBunker_SawyerBatty_Patch.esp
 RRTV_OutcastBunker_SawyerBatty_Patch.esp
+RRTV_CW_Hideouts_SawyerBatty_Patch.esp
 MMTV_SinkRedux_SawyerBatty_Patch.esp
 RTC-SpringvaleGarageTerminal.esp
 HardcoreZeta.esp
